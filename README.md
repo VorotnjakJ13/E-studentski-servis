@@ -1,0 +1,1 @@
+# Indeks-kakovosti-ivljenja
