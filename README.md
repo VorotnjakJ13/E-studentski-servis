@@ -1,4 +1,4 @@
-# Indeks-kakovosti-zivljenja
+# E-studentski-servis
 
 Analizirala bom podatke o kakovosti življenja s strani https://www.numbeo.com/quality-of-life/. 
 
