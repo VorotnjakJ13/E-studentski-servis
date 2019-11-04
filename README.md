@@ -1,19 +1,20 @@
 # E-studentski-servis
 
-Analizirala bom podatke o kakovosti življenja s strani https://www.numbeo.com/quality-of-life/. 
+Analizirala bom podatke o ponujenih oglasih s strani https://www.studentski-servis.com . 
 
-Za vsako državo bom zajela podatke o :
+Za vsak oglas bom zajela podatke o :
 
-- Stroških bivanja in kupni moči premičnin
-- kupna moč nepremičnin
-- Onesnaževanje, vključno z zrakom, vodo itd.
-- Stopnja kriminala
-- Kakovost zdravstvenega sistema
-- Promet (čas porabljen za prevoz) 
+-nazivu oglasa
+-tipu dela
+-ponujeno plačilo
+-opis dela in pogoji za kandidate
+-lokacija dela
+-vrsta dela
+ 
 
 Delovne hipoteze:
-- Katere države so najbolj ugodne za življenje po izbranih indeksih? 
-- Kako se Slovenija odreže v primerjavi z ostalimi državami po posameznih indeksih? 
-- Kakšna so povprečja po posameznih indeksih?
-- Kako se Slovenija drži povprečja po posameznih indeksih? 
+- Kateri tipi dela so najbolj pogosti?
+- Katera dela so najbolje plačana in katera najslabše?
+- Kakšna so povprečja po posameznih kategorijah?
+- Ali lahko na podlagi izbranih podatkov sklepamo kje bi bile konkurence za zaposlitev večje in kje manjše ? 
 
