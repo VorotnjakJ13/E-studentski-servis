@@ -4,12 +4,12 @@ Analizirala bom podatke o ponujenih oglasih s strani https://www.studentski-serv
 
 Za vsak oglas bom zajela podatke o :
 
--nazivu oglasa
--tipu dela
--ponujeno plačilo
--opis dela in pogoji za kandidate
--lokacija dela
--vrsta dela
+- nazivu oglasa
+- tipu dela
+- ponujeno plačilo
+- opis dela in pogoji za kandidate
+- lokacija dela
+- vrsta dela
  
 
 Delovne hipoteze:
