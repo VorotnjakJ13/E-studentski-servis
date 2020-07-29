@@ -13,8 +13,7 @@ Za vsak oglas bom zajela podatke o :
  
 
 Delovne hipoteze:
-- Kateri tipi dela so najbolj pogosti?
-- Katera dela so najbolje plačana in katera najslabše?
-- Kakšna so povprečja po posameznih kategorijah?
-- Ali lahko na podlagi izbranih podatkov sklepamo kje bi bile konkurence za zaposlitev večje in kje manjše ? 
-
+- Kako so razporejene postavke po vrstah dela in kraju dela?
+- Koliko je oglasov po posameznih krajih?
+- Kolikšne so povprečne postavke po krajih in vrstah dela?
+- Ali lahko na podlagi izbranih podatkov poiščemo najboljši oglas za nas?
